@@ -99,7 +99,7 @@ using Python.
 
 ##  Project Structure
 
-movie-popularity-ratings-analysis/
+# movie-popularity-ratings-analysis/
 # │
 # ├── movie_popularity_ratings_eda.ipynb
 # ├── mymoviedb.csv
