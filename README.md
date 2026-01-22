@@ -100,10 +100,10 @@ using Python.
 ##  Project Structure
 
 movie-popularity-ratings-analysis/
-│
-├── movie_popularity_ratings_eda.ipynb
-├── mymoviedb.csv
-└── README.md
+# │
+# ├── movie_popularity_ratings_eda.ipynb
+# ├── mymoviedb.csv
+# └── README.md
 
 
 Conclusion
